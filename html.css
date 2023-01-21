@@ -1,0 +1,22 @@
+@font-face {
+    font-family:'Beckett' ;
+    src: url(fabricios-audio-archive/BECKETT.TTF) format('truetype');
+}
+@font-face {
+    font-family:'Chalet' ;
+    src: url(fabricios-audio-archive/Chalet-LondonNineteenSixty.ttf) format('truetype') ;
+}
+
+
+body {
+    background-color:rgb(45, 45, 56)
+}
+h1 {font-family:'Beckett', sans-serif ; 
+font-size: 6em}
+
+h1 {color:rgb(238, 245, 252)}
+
+p {font-family:'Chalet', sans-serif ;
+font-size: 1em}
+
+p {color: rgb(238, 245, 252)}
