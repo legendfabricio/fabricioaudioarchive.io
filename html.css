@@ -8,7 +8,7 @@
 }
 @font-face {
     font-family:'BankGothic' ;
-    src: url(fabricios-audio-archive/BankGothic-Md-BT.ttf) format('truetype') ;
+    src: url(fabricios-audio-archive/BankGothicMediumBT.ttf) format('truetype') ;
 }
 
 body {
@@ -24,7 +24,8 @@ font-size: 1em}
 
 p {color: rgb(238, 245, 252)}
 
+
 h2 {font-family:'BankGothic', sans-serif ;
     font-size: 2em}
 
-h2 {color:rgb(238, 245, 252) }
+h2 {color:rgb(238, 245, 252)}
