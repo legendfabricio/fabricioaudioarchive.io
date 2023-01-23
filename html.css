@@ -6,6 +6,10 @@
     font-family:'Chalet' ;
     src: url(fabricios-audio-archive/Chalet-LondonNineteenSixty.ttf) format('truetype') ;
 }
+@font-face {
+    font-family:'BankGothic' ;
+    src: url(fabricios-audio-archive/BankGothic-Md-BT) format('truetype') ;
+}
 
 body {
     background-color:rgb(45, 45, 56)
@@ -19,3 +23,8 @@ p {font-family:'Chalet', sans-serif ;
 font-size: 1em}
 
 p {color: rgb(238, 245, 252)}
+
+h2 {font-family:'BankGothic', sans-serif ;
+    font-size: 2em}
+
+h2 {color:rgb(238, 245, 252) }
